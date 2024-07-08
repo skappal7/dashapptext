@@ -1,6 +1,7 @@
 dash
 dash-bootstrap-components
 pandas
-nltk
-textblob
 plotly
+textblob
+nltk
+gunicorn
